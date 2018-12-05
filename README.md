@@ -34,14 +34,6 @@
       compile project(':react-native-react-native-document-show')
   	```
 
-#### Windows
-[Read it! :D](https://github.com/ReactWindows/react-native)
-
-1. In Visual Studio add the `RNReactNativeDocumentShow.sln` in `node_modules/react-native-react-native-document-show/windows/RNReactNativeDocumentShow.sln` folder to their solution, reference from their app.
-2. Open up your `MainPage.cs` app
-  - Add `using React.Native.Document.Show.RNReactNativeDocumentShow;` to the usings at the top of the file
-  - Add `new RNReactNativeDocumentShowPackage()` to the `List<IReactPackage>` returned by the `Packages` method
-
 
 ## Usage
 ```javascript
