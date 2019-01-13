@@ -1,5 +1,5 @@
 
-# react-native-react-native-document-show
+# react-native-document-show  (UNFINISHED I HOPE TO RESUME THE PROJECT SOON)
 
 ## Getting started
 
@@ -37,7 +37,7 @@
 
 ## Usage
 ```javascript
-import RNReactNativeDocumentShow from 'react-native-react-native-document-show';
+import RNReactNativeDocumentShow from 'react-native-document-show';
 
 // TODO: What to do with the module?
 RNReactNativeDocumentShow;
